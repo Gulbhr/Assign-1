@@ -1,6 +1,6 @@
 # Assign-1
 
-
+'''
 Hexagonall: Emir Bora Taşcı : Student 1
 Asukir45: Onur Ahmetli : Student 2
 esinzengin: Ezin Zengin : Student 2
@@ -14,3 +14,4 @@ promoter, 5' UTR, start codon, exon1, intron, exon2, stop codon, 3' UTR). Print 
 by using the string concatenation operator, on the standard output! Note: Feel free to create a 
 fictional gene sequence by randomly filling in the gene components by the characters 
 corresponding to individual nucleotide bases.
+'''
