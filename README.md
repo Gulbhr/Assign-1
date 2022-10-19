@@ -3,6 +3,7 @@
 
 Hexagonall: Emir Bora Taşcı : Student 1
 Asukir45: Onur Ahmetli : Student 2
+esinzengin: Ezin Zengin : Student 2
 
 Question 1: Please assign values to 5 different variables each corresponding to a different simple
 data type that exist in the Python language. Please pay attention for the PEP 8 guidelines in 
