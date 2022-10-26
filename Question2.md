@@ -7,7 +7,7 @@ fictional gene sequence by randomly filling in the gene components by the charac
 corresponding to individual nucleotide bases.
 
 '''
-promoter = "ATTTAAAAATATAATATT"
+promoter = "ESİNZENGİN"
 five_prime_UTR = "GTAAATGCGCGCGATT"
 start_codon = "ATG"
 exon1 = "ATGCGATTACGATTAAG"
